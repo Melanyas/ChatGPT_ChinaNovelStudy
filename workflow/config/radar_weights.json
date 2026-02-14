@@ -1,0 +1,11 @@
+{
+  "topic_opportunity": 0.2,
+  "persona_distinctiveness": 0.2,
+  "conflict_engine": 0.2,
+  "pace_hook": 0.2,
+  "commercial_potential": 0.2,
+  "decision_threshold": {
+    "focus": 80,
+    "trial": 65
+  }
+}

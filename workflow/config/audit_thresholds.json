@@ -1,0 +1,6 @@
+{
+  "chapter_overall_min": 70,
+  "hook_strength_min": 60,
+  "top_project_score_min": 70,
+  "max_global_negative_keyword_ratio": 0.6
+}
